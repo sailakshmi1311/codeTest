@@ -20,7 +20,7 @@ public class PwdCustomTest {
                 System.out.println("Exception occured in password validation.." + e.getMessage());
             }
             //Password validation checks for 3 rules and at least 1 lower case
-            boolean b = PwdVerificreation.pwdValidation(pwd);
+            boolean b = PwdVerification.pwdValidation(pwd);
             if(b)
                 System.out.println(" Password is OK - 3 rules are passed" );
             else System.out.println(" Password is not OK ");
