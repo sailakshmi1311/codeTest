@@ -1,6 +1,6 @@
-package com.demo.pwdcustomtest.validation;
+package com.demo.passwordcustomtest.validation;
 
-import com.exception.PwdCustomException;
+import com.demo.passwordcustomtest.exception.PwdCustomException;
 
 import java.util.List;
 import java.util.concurrent.Callable;

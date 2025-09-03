@@ -1,6 +1,6 @@
-package com.demo.pwdcustomtest;
-import com.exception.PwdCustomException;
-import com.validation.passwordvalidation.PwdVerification;
+package com.demo.passwordcustomtest;
+import com.demo.passwordcustomtest.exception.PwdCustomException;
+import com.demo.passwordcustomtest.validation.PwdVerification;
 import java.util.Scanner;
 
 public class PwdCustomTest {
