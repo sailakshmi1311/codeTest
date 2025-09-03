@@ -1,4 +1,4 @@
-package com.exception;
+package com.demo.pwdcustomtest.exception;
 
 //Base class for all exception classes
 public  class PwdCustomException extends Exception{

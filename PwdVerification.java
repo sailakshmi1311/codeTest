@@ -1,4 +1,4 @@
-package com.validation.passwordvalidation;
+package com.demo.pwdcustomtest.validation;
 
 import com.exception.PwdCustomException;
 

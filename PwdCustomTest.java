@@ -1,4 +1,4 @@
-package com.testing.passwordtest;
+package com.demo.pwdcustomtest;
 import com.exception.PwdCustomException;
 import com.validation.passwordvalidation.PwdVerification;
 import java.util.Scanner;
