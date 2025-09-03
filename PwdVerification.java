@@ -1,6 +1,6 @@
 package com.validation.passwordvalidation;
 
-import com.exception.passwordexception.PwdCustomException;
+import com.exception.PwdCustomException;
 
 import java.util.List;
 import java.util.concurrent.Callable;
