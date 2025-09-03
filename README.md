@@ -1,1 +1,1 @@
-
+A Java based password validation problem. Which validates all the rules ( min length, at least one uppercase, lowercase, number). Used custom exception handling, parallel checks for faster execution, and tells the user that is valid or not along with the failed conditions and tell to try with a valid password.
